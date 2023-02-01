@@ -20,3 +20,9 @@
 ![image](https://user-images.githubusercontent.com/85509333/215911087-a19573b3-4421-406c-893a-7b435a6bf580.png)
 
 ![image](https://user-images.githubusercontent.com/85509333/215911540-0faaa36a-a77a-4ebb-ad76-0cf9fe7f4e54.png)
+
+# Delete {id} #
+
+![image](https://user-images.githubusercontent.com/85509333/215914832-731f415d-e73d-4f7c-93c1-120836f81753.png)
+
+![image](https://user-images.githubusercontent.com/85509333/215914981-bc1868d7-0d3b-41c8-bdd8-599949b785b9.png)
